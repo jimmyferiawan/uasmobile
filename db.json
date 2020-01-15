@@ -1,15 +1,15 @@
 {
   "posts": [
-    { "id": 1, "title": "Berita 1" , "content": "isi konten berita 1"},
-    { "id": 2, "title": "Berita 2" , "content": "isi konten berita 2"},
-	{ "id": 3, "title": "Berita 3" , "content": "isi konten berita 3"},
-	{ "id": 4, "title": "Berita 4" , "content": "isi konten berita 4"},
-	{ "id": 5, "title": "Berita 5" , "content": "isi konten berita 5"},
-	{ "id": 6, "title": "Berita 6" , "content": "isi konten berita 6"},
-	{ "id": 7, "title": "Berita 7" , "content": "isi konten berita 7"},
-	{ "id": 8, "title": "Berita 8" , "content": "isi konten berita 8"},
-	{ "id": 9, "title": "Berita 1" , "content": "isi konten berita 9"},
-	{ "id": 10, "title": "Berita 10" , "content": "isi konten berita 10"},
+    { "userId": 1,"id": 1, "title": "Berita 1" , "body": "isi konten berita 1"},
+    { "userId": 2,"id": 2, "title": "Berita 2" , "body": "isi konten berita 2"},
+	{ "userId": 2,"id": 3, "title": "Berita 3" , "body": "isi konten berita 3"},
+	{ "userId": 3,"id": 4, "title": "Berita 4" , "body": "isi konten berita 4"},
+	{ "userId": 3,"id": 5, "title": "Berita 5" , "body": "isi konten berita 5"},
+	{ "userId": 1,"id": 6, "title": "Berita 6" , "body": "isi konten berita 6"},
+	{ "userId": 1,"id": 7, "title": "Berita 7" , "body": "isi konten berita 7"},
+	{ "userId": 2,"id": 8, "title": "Berita 8" , "body": "isi konten berita 8"},
+	{ "userId": 1,"id": 9, "title": "Berita 1" , "body": "isi konten berita 9"},
+	{ "userId": 3,"id": 10, "title": "Berita 10" , "body": "isi konten berita 10"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
