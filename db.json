@@ -19,17 +19,7 @@
 	{ "userId": 1,"id": 17, "title": "Berita 17" , "body": "isi konten berita 17"},
 	{ "userId": 2,"id": 18, "title": "Berita 18" , "body": "isi konten berita 18"},
 	{ "userId": 1,"id": 19, "title": "Berita 19" , "body": "isi konten berita 19"},
-	{ "userId": 3,"id": 20, "title": "Berita 20" , "body": "isi konten berita 20"},
-	{ "userId": 1,"id": 21, "title": "Berita 21" , "body": "isi konten berita 21"},
-    { "userId": 2,"id": 22, "title": "Berita 22" , "body": "isi konten berita 22"},
-	{ "userId": 2,"id": 23, "title": "Berita 23" , "body": "isi konten berita 23"},
-	{ "userId": 3,"id": 24, "title": "Berita 24" , "body": "isi konten berita 24"},
-	{ "userId": 3,"id": 25, "title": "Berita 25" , "body": "isi konten berita 25"},
-	{ "userId": 1,"id": 26, "title": "Berita 26" , "body": "isi konten berita 26"},
-	{ "userId": 1,"id": 27, "title": "Berita 27" , "body": "isi konten berita 27"},
-	{ "userId": 2,"id": 28, "title": "Berita 28" , "body": "isi konten berita 28"},
-	{ "userId": 1,"id": 29, "title": "Berita 29" , "body": "isi konten berita 29"},
-	{ "userId": 3,"id": 30, "title": "Berita 30" , "body": "isi konten berita 30"}
+	{ "userId": 3,"id": 20, "title": "Berita 20" , "body": "isi konten berita 20"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
